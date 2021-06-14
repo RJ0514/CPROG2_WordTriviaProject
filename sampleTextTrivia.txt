@@ -1,0 +1,122 @@
+Object: Apple
+Kind of: Fruit
+Color: Red
+Taste: Sweet, Starchy
+
+Object: Carrot 
+Kind of: Vegetable 
+Grows in: Underground
+
+Object: Hotdog
+Kind of: Meat
+Color: Brown
+Taste: Meaty
+
+Object: Wine
+Ingredients: Grape, Alcohol
+
+Object: Orange
+Color: Orange
+Kind of: Fruit
+Taste: Sour
+Measurement: Grams
+
+Object: Peach
+Color: Peach
+Kind of: Fruit
+Taste: Starchy
+Measurement: Grams
+
+Object: Fig
+Color: Purple-green, Pink
+Taste: Sweet
+
+Object: Langka
+Used in: Halo-halo
+Family: Moraceae
+
+Object: Banana
+Color: Yellow
+Kind of: Fruit
+Taste: Sweet
+Measurement: Bunches
+
+Object: Mango
+Color: Yellow, Green
+Kind of: Fruit
+Taste: Sour, Sweet
+Measurement: Grams
+
+Object: Ketchup
+Color: Red
+Kind of: Condiment
+Taste: Sweet
+Measurement: Litres
+
+Object: Guava
+Color: Green, Red
+Originated in: Mexico
+
+Object: Durian
+Smell: Stinky
+Covering: Spiky
+Kind of: Fruit
+
+Object: Eggplant
+Color: Purple
+
+Object: Kalamansi
+Color: Green, Lime
+Genus: Citrus
+Taste: Sour
+Seeds: Small
+
+Object: Lemonade
+Made from: Citrus
+Taste: Sour
+
+Object: Papaya
+Color: Greenish-yellow, Yellow-orange
+Seeds: Tiny, many, black
+Originated from: Mexico
+
+Object: Dragonfruit
+Flesh and Inside color: Red, white, black seeds 
+
+Object: Kiwi
+Flesh and Inside Color: Brown, Green
+Native to: China
+Grown by: New Zealand
+
+Object: Tomato
+Used in: Pasta, Pizza, Salad 
+Kind of: Vegetable
+
+Object: Raspberry
+Used in: Pie, Ice Cream, Cake
+Grows in: Temperate areas
+Famous Namesakes: Small Portable Computer
+
+Object: Blueberry
+Fruit Color: Blue, Indigo, Purple
+Genus: Vaccinium
+
+Object: Deadly Nightshade
+Fruit Color: Black
+Looks Like: Blueberry
+Genus: Atropa
+
+Object: Holly
+Used in: Christmas
+
+Object: Mistletoe
+Used in: Christmas 
+
+Object: Coconut
+Grows in: Tropical beaches
+Size: Big
+Looks like: Bowling Ball
+Color: Brown
+Texture: Hairy
+Inside Color: Milky-white
+
