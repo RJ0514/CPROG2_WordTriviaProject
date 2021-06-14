@@ -8,8 +8,8 @@ To use the Code:
 4) Play!
 
 How to Play (If you don't want to read the pdf.)
-a) After Compiling/Run input the dimensions of the board.
-b) Enter sampleTextTrivia.txt as the file to be imported.
-c) Pick a Letter from the 1st Row and guess what it is given the Trivia.
+1) After Compiling/Run input the dimensions of the board.
+2) Enter sampleTextTrivia.txt as the file to be imported.
+3) Pick a Letter from the 1st Row and guess what it is given the Trivia.
 
 Enjoy!
